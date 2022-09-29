@@ -1,0 +1,16 @@
+.titre{
+    color: red;
+}
+.div1{
+    background-color: gray;
+}
+a{
+    color: chartreuse;
+}
+.image2{
+    float:right;
+}
+.t3{
+    text-align: right;
+    display:inline-block;
+}
